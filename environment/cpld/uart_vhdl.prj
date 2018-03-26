@@ -1,0 +1,4 @@
+vhdl work "E:\THU\2017Fall\2-1ComputerOrganizaton\CPU\ClassCode\cpld\txmit.vhd"
+vhdl work "E:\THU\2017Fall\2-1ComputerOrganizaton\CPU\ClassCode\cpld\rcvr.vhd"
+vhdl work "E:\THU\2017Fall\2-1ComputerOrganizaton\CPU\ClassCode\cpld\clkcon.vhd"
+vhdl work "E:\THU\2017Fall\2-1ComputerOrganizaton\CPU\ClassCode\cpld\uart.vhd"

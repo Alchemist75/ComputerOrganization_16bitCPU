@@ -1,0 +1,8 @@
+EN clkcon NULL E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/clkcon.vhd sub00/vhpl04 1511669114
+EN rcvr NULL E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/rcvr.vhd sub00/vhpl02 1511669112
+AR txmit v1 E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/txmit.vhd sub00/vhpl01 1511669111
+AR uart v1 E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/uart.vhd sub00/vhpl07 1511669117
+EN txmit NULL E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/txmit.vhd sub00/vhpl00 1511669110
+EN uart NULL E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/uart.vhd sub00/vhpl06 1511669116
+AR rcvr v1 E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/rcvr.vhd sub00/vhpl03 1511669113
+AR clkcon v1 E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/clkcon.vhd sub00/vhpl05 1511669115

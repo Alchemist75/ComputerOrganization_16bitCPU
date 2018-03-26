@@ -1,0 +1,31 @@
+V3 15
+FL E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/clkcon.vhd 2011/09/20.15:49:18 P.20131013
+EN work/clkcon 1511669114 \
+      FL E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/clkcon.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/clkcon/v1 1511669115 \
+      FL E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/clkcon.vhd \
+      EN work/clkcon 1511669114
+FL E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/rcvr.vhd 2011/11/26.16:07:30 P.20131013
+EN work/rcvr 1511669112 \
+      FL E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/rcvr.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177
+AR work/rcvr/v1 1511669113 \
+      FL E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/rcvr.vhd \
+      EN work/rcvr 1511669112
+FL E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/txmit.vhd 2011/11/30.22:22:52 P.20131013
+EN work/txmit 1511669110 \
+      FL E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/txmit.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177
+AR work/txmit/v1 1511669111 \
+      FL E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/txmit.vhd \
+      EN work/txmit 1511669110
+FL E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/uart.vhd 2011/11/23.14:00:46 P.20131013
+EN work/uart 1511669116 \
+      FL E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/uart.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/uart/v1 1511669117 \
+      FL E:/THU/2017Fall/2-1ComputerOrganizaton/CPU/ClassCode/cpld/uart.vhd \
+      EN work/uart 1511669116 CP txmit CP rcvr CP clkcon
